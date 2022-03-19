@@ -1,1 +1,1 @@
-worker:python app.py
+new : junicorn app:app
