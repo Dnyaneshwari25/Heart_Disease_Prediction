@@ -38,4 +38,4 @@ print("---------------------")
 print(clf_report)
 print("_____________________")
 
-joblib.dump(model,r"C:\Users\DELL\Desktop\Heart_Diseasse_Prediction\Heart_API\heart_model.pkl")
+joblib.dump(model,r"../Heart_API/heart_model.pkl")
