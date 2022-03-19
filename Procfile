@@ -1,1 +1,1 @@
-new:junicorn app:app
+new: junicorn app:app
